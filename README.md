@@ -1,2 +1,3 @@
-# Example
-An example greeter plugin
+# Icon Tagging
+
+Tag objects with icons.
